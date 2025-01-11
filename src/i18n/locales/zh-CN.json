@@ -6,7 +6,7 @@
 		"docs_page": "{FilesName} • 文档 - {title}",
 		"blog_home": "{FilesName} • 博客",
 		"blog_page": "{FilesName} • {title}",
-		"description": "构建最好的Windows文件管理器。"
+		"description": "做最好的自己"
 	},
 	"home": {
 		"community": {
@@ -18,64 +18,64 @@
 			"contributions": "{amount, plural, =0 {无贡献} other {# 贡献}}"
 		},
 		"design": {
-			"chip": "设计",
-			"title": "当实用遇上美学。",
-			"description": "探索绚丽的 Windows 设计。在提高工作效率的同时，管理所有文件，更能使用标签在多个文件夹间切换。还有更多功能等待您发现。",
+			"chip": "我们",
+			"title": "永远年轻 永远热泪盈眶",
+			"description": "一群初高中生摄影佬为热爱而生的小组，我们希望能做出令自己和观众都满意的出色作品",
 			"download": "下载",
 			"learn_more": "了解更多"
 		},
 		"features": {
-			"chip": "特性",
-			"title": "它已经做到了这一点。",
-			"description": "云文件的集成？标签和多种布局？丰富的文件预览？ {FilesName} 拥有您期望从现代文件管理器中获得的所有强大功能。",
+			"chip": "关于",
+			"title": "我们已经做到了什么",
+			"description": "优秀的后期调色？电影感的镜头？还是令人惊叹的摄影技巧？我们都有所进展",
 			"unknown": "未知",
 			"cloud": {
-				"title": "无缝的云端集成",
-				"description": "内置对 OneDrive、Google Drive 和 iCloud 等云驱动器的支持。"
+				"title": "网络运营",
+				"description": "我们有流媒体频道，并有自己的私有云"
 			},
 			"preview": {
-				"title": "预览面板",
-				"description": "无需打开即可预览照片、视频和文档。"
+				"title": "抢先预览",
+				"description": "我们掌握先一手的学校活动咨询"
 			},
 			"popup-preview": {
-				"title": "支持 QuickLook 和 SeerPro",
-				"description": "按空格键预览 Office 文件、文档和其他文件类型。此功能需要安装 QuickLook 或 SeerPro。"
+				"title": "观看体验",
+				"description": "我们拥有拍摄 4K 60 帧甚至 8K 60 帧的能力，给您震撼的视觉体验"
 			},
 			"tags": {
-				"title": "为文件和文件夹打上标签",
-				"description": "用彩色标签对你的文件和文件夹进行组织和分类。"
+				"title": "素材管理",
+				"description": "我们使用提示明确的标签用于管理庞大的素材库"
 			},
 			"tabs": {
-				"title": "使用标签页进行多任务处理",
-				"description": "使用标签页避免打开多个窗口，让桌面保持整洁。"
+				"title": "拷卡秩序",
+				"description": "我们有完善的工作流用于素材管理和备份"
 			},
 			"columns": {
 				"title": "列表视图",
 				"description": "使用列式布局快速浏览文件系统的不同层级。"
 			},
 			"archives": {
-				"title": "查看和编辑档案",
-				"description": "创建和解压压缩包，包括zip、WinRar和7zip。"
+				"title": "分发素材",
+				"description": "我们有相对完善的分发素材规范以确保项目的正常运行"
 			},
 			"git": {
-				"title": "Git 集成",
-				"description": "轻松地管理你的Git项目。创建新的分支，在它们之间切换，并同步你的变化 - 所有这些都无需离开Files。"
+				"title": "组织管理",
+				"description": "我们是一群爱好者，平等的交流摄影经验"
 			},
 			"dual-pane": {
-				"title": "双面板",
-				"description": "利用双面板查看和管理两个并排的文件夹。"
+				"title": "团队协作",
+				"description": "在一起，就可以。我们相信团体的力量"
 			},
 			"hashes": {
-				"title": "哈希值",
-				"description": "在属性窗口中查看和比较文件的哈希值。"
+				"title": "放松一下",
+				"description": "我们不定期的会有小福利哦"
 			},
 			"command-palette": {
-				"title": "命令面板",
-				"description": "通过命令面板快速访问命令、功能和设置。"
+				"title": "核心组织",
+				"description": "我们有一群拥有相应项目经验的同学"
 			},
 			"remap-key-bindings": {
-				"title": "重映射键绑定",
-				"description": "通过创建自定义密钥绑定来简化您的工作流。"
+				"title": "配套设施",
+				"description": "我们有相应的场室和电脑用于工作"
 			}
 		},
 		"themes": {
