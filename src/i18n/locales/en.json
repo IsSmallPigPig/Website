@@ -1,148 +1,147 @@
 {
 	"metadata": {
 		"name": "{FilesName}",
-		"home": "{FilesName} • Home",
-		"docs_home": "{FilesName} • Docs",
-		"docs_page": "{FilesName} • Docs - {title}",
-		"blog_home": "{FilesName} • Blog",
+		"home": "{FilesName} • 主页",
+		"docs_home": "{FilesName} • 文档",
+		"docs_page": "{FilesName} • 文档 - {title}",
+		"blog_home": "{FilesName} • 博客",
 		"blog_page": "{FilesName} • {title}",
-		"description": "Building the best file manager for Windows."
+		"description": "做最好的自己"
 	},
 	"home": {
 		"community": {
-			"chip": "Community",
-			"title": "Designed and developed by you.",
-			"description": "{FilesName} is free and open source software, maintained and designed by a collective of hundreds of contributors.",
-			"discord": "Join the discussion",
-			"docs": "Become a contributor",
-			"contributions": "{amount, plural, =0 {No contributions} one {# contribution} other {# contributions}}"
+			"chip": "社区",
+			"title": "由你来进行的设计与开发。",
+			"description": "{FilesName} 是自由开放源码软件，由数百个贡献者集体维护和设计。",
+			"discord": "加入讨论",
+			"docs": "成为贡献者",
+			"contributions": "{amount, plural, =0 {无贡献} other {# 贡献}}"
 		},
 		"design": {
-			"chip": "Design",
-			"title": "Power meets beauty.",
-			"description": "Explore a beautiful Windows-first design. Manage all your files with increased productivity. Work across multiple folders with tabs. And so much more.",
-			"download": "Download",
-			"learn_more": "Learn more"
+			"chip": "我们",
+			"title": "永远年轻 永远热泪盈眶",
+			"description": "一群初高中生摄影佬为热爱而生的小组，我们希望能做出令自己和观众都满意的出色作品",
+			"download": "下载",
+			"learn_more": "了解更多"
 		},
 		"features": {
-			"chip": "Features",
-			"title": "It already does that.",
-			"description": "Cloud files integration? Tabs and multiple layouts? Rich file previews? {FilesName} has it covered with robust features you expect from a modern file manager.",
-			"unknown": "Unknown",
+			"chip": "关于",
+			"title": "我们已经做到了什么",
+			"description": "优秀的后期调色？电影感的镜头？还是令人惊叹的摄影技巧？我们都有所进展",
+			"unknown": "未知",
 			"cloud": {
-				"title": "Seamless cloud integration",
-				"description": "Built-in support for cloud drives such as OneDrive, Google Drive, and iCloud."
+				"title": "网络运营",
+				"description": "我们有流媒体频道，并有自己的私有云"
 			},
 			"preview": {
-				"title": "Preview pane",
-				"description": "Preview photos, videos, and documents without opening them."
+				"title": "抢先预览",
+				"description": "我们掌握先一手的学校活动咨询"
 			},
 			"popup-preview": {
-				"title": "QuickLook & SeerPro support",
-				"description": "Preview Office files, documents, and other file types by pressing the space bar. This feature requires installing QuickLook or SeerPro."
+				"title": "观看体验",
+				"description": "我们拥有拍摄 4K 60 帧甚至 8K 60 帧的能力，给您震撼的视觉体验"
 			},
 			"tags": {
-				"title": "Tag files and folders",
-				"description": "Organize and sort your files and folders with colored tags."
+				"title": "素材管理",
+				"description": "我们使用提示明确的标签用于管理庞大的素材库"
 			},
 			"tabs": {
-				"title": "Multitask with tabs",
-				"description": "Avoid multiple windows and keep your desktop clutter-free with tabs."
+				"title": "拷卡秩序",
+				"description": "我们有完善的工作流用于素材管理和备份"
 			},
 			"columns": {
-				"title": "Column view",
-				"description": "Quickly navigate through different levels of the file system using the column layout."
+				"title": "列表视图",
+				"description": "使用列式布局快速浏览文件系统的不同层级。"
 			},
 			"archives": {
-				"title": "View and edit archives",
-				"description": "Create and extract archives including zip, WinRar, and 7zip."
+				"title": "分发素材",
+				"description": "我们有相对完善的分发素材规范以确保项目的正常运行"
 			},
 			"git": {
-				"title": "Git integration",
-				"description": "Easily manage your Git projects. Create new branches, switch between them, and sync your changes - all without leaving Files."
+				"title": "组织管理",
+				"description": "我们是一群爱好者，平等的交流摄影经验"
 			},
 			"dual-pane": {
-				"title": "Dual pane",
-				"description": "View and manage two folders side by side with the Dual Pane feature."
+				"title": "团队协作",
+				"description": "在一起，就可以。我们相信团体的力量"
 			},
 			"hashes": {
-				"title": "Hashes",
-				"description": "View and compare file hashes from the properties window."
+				"title": "放松一下",
+				"description": "我们不定期的会有小福利哦"
 			},
 			"command-palette": {
-				"title": "Command Palette",
-				"description": "Quickly access commands, features, and settings from the Command Palette."
+				"title": "核心组织",
+				"description": "我们有一群拥有相应项目经验的同学"
 			},
 			"remap-key-bindings": {
-				"title": "Remap key bindings",
-				"description": "Streamline you workflow by creating custom key bindings."
+				"title": "配套设施",
+				"description": "我们有相应的场室和电脑用于工作"
 			}
 		},
 		"themes": {
-			"chip": "Themes",
-			"title": "Distinctly personal.",
-			"description": "Have it your way. {FilesName} features a fully customizable user interface, right down to the colors and materials. Try custom themes that are built into {FilesName} or dive right into the docs and create your own.",
-			"grey_blue": "Dark Grey • Light Blue",
-			"grey_green": "Blue Grey • Neon Green",
-			"purple": "Purple",
-			"yellow_white": "Yellow • White",
-			"white_teal": "Cool White • Dark Teal",
-			"sky_blue": "Sky Blue",
-			"select_theme": "Select theme #{index}"
+			"chip": "主题",
+			"title": "个性化",
+			"description": "随心所欲。 {FilesName} 的用户界面可完全自定义，包括颜色和材质。你可以尝试 {FilesName} 内置的自定义主题，也可以查阅文档创建自定义主题。",
+			"grey_blue": "深灰 • 浅蓝",
+			"grey_green": "灰蓝 • 荧绿",
+			"purple": "紫色",
+			"yellow_white": "黄色 • 白色",
+			"white_teal": "冷白色 • 深茶色",
+			"sky_blue": "天蓝",
+			"select_theme": "选择主题#{index}"
 		}
 	},
 	"blog": {
-		"coming_soon": "More posts coming soon!",
-		"read_more": "Read More",
+		"coming_soon": "更多功能即将发布!",
+		"read_more": "了解更多",
 		"share": {
-			"default": "Native sharing",
-			"url": "Copy URL",
+			"default": "本地共享",
+			"url": "复制链接",
 			"tweet": "X",
 			"facebook": "Facebook",
-			"rss": "RSS Feed"
+			"rss": "RSS 订阅源"
 		}
 	},
 	"docs": {
-		"autocomplete_empty": "No results found",
-		"edit_page": "Edit this page",
-		"search_docs": "Search Documentation"
+		"autocomplete_empty": "未找到任何结果",
+		"edit_page": "编辑此页面",
+		"search_docs": "搜索文档"
 	},
 	"footer": {
-		"home": "Home",
-		"docs": "Docs",
-		"news": "News",
-		"download": "Download",
-		"contribute": "Contribute to {FilesName}",
-		"feedback": "Give Feedback",
-		"style_guide": "Style Guide",
-		"translations": "Translations",
-		"support": "Support",
-		"privacy": "Privacy"
+		"home": "主页",
+		"docs": "文档",
+		"news": "消息",
+		"download": "下载",
+		"contribute": "为 {FilesName} 贡献",
+		"feedback": "发送反馈",
+		"style_guide": "风格规范",
+		"translations": "翻译",
+		"web_team": "团队"
 	},
 	"navbar": {
-		"home": "Home",
-		"docs": "Documentation",
-		"news": "News",
-		"download": "Download",
-		"themes": "Themes",
+		"home": "主页",
+		"docs": "文档",
+		"news": "消息",
+		"download": "下载",
+		"themes": "主题",
 		"discord": "Discord",
 		"github": "Github"
 	},
 	"download": {
-		"title": "Download {FilesName}",
-		"donation_description": "{FilesName} is a community-driven project that depends on your support to grow and improve. Please consider purchasing {FilesName} through the Microsoft Store or supporting us on GitHub if you use the classic installer.",
-		"donation_button": "Donate",
+		"title": "下载 {FilesName}",
+		"donation_description": "{FilesName} 是一个由社区主导的项目，为了持续成长和改进，我们需要大家的支持。请考虑从 Microsoft Store 购买 {FilesName}，或者如果您选择使用经典安装程序，请务必在 GitHub 上给予支持。",
+		"donation_button": "捐赠",
 		"microsoft_store": {
-			"title": "Download Files",
-			"description": "Purchasing {FilesName} through the Microsoft Store helps support the developers and allows us to continue updating the app with new features and improvements."
+			"title": "下载文件",
+			"description": "通过Microsoft Store购买 {FilesName} 有助于支持开发人员，使我们能够继续更新应用程序的新功能和改进。"
 		},
 		"preview": {
-			"title": "Download Insider Preview",
-			"description": "The preview version can be installed alongside the stable release and provides early access to new features and improvements."
+			"title": "下载预览版本",
+			"description": "预览版可以与稳定版同时安装，并提供对新功能和改进的早期访问。"
 		},
 		"self_signed": {
-			"link_text": "classic installer",
-			"description": "Don't have access to the Microsoft Store? Try our "
+			"link_text": "经典安装程序",
+			"description": "无法通过 Microsoft Store 下载？试试我们 "
 		}
 	}
 }
