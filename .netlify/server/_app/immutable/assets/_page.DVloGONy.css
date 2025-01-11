@@ -1,0 +1,61 @@
+.download-source.svelte-4tt35b.svelte-4tt35b {
+	border-radius: var(--fds-control-corner-radius);
+	border: 1px solid var(--fds-card-stroke-default);
+	box-shadow: var(--fds-card-shadow);
+	transition: var(--fds-control-normal-duration) ease;
+	background: var(--fds-card-background-default);
+	cursor: pointer;
+	display: flex;
+	flex-direction: row;
+	place-items: center;
+	padding: 3rem 6rem;
+}
+@media (prefers-reduced-motion: no-preference) {
+	.download-source.svelte-4tt35b.svelte-4tt35b:hover {
+		box-shadow: var(--fds-flyout-shadow);
+		transform: translateY(-2px);
+	}
+	.download-source.svelte-4tt35b:hover .download-source-icon.svelte-4tt35b {
+		filter: drop-shadow(var(--fds-flyout-shadow));
+		transform: translateY(-2px);
+	}
+}
+.download-source.svelte-4tt35b .download-source-description {
+	text-align: left;
+	max-width: 50rem;
+}
+.download-source.svelte-4tt35b .download-source-icon.svelte-4tt35b {
+	max-inline-size: 10rem;
+	transition: var(--fds-control-normal-duration) ease;
+}
+.download-source.svelte-4tt35b .label-container.svelte-4tt35b {
+	margin-left: 4rem;
+	display: flex;
+	align-items: flex-start;
+	justify-items: stretch;
+	flex-direction: column;
+	flex-grow: 1;
+	gap: 1rem;
+}
+.download-page.svelte-1wvmdl0.svelte-1wvmdl0.svelte-1wvmdl0 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: stretch;
+	gap: 2rem;
+	padding: 2rem;
+	max-width: 900px;
+	margin-inline: auto;
+	inline-size: fit-content;
+	block-size: calc(100vh - 58px);
+}
+.download-page.svelte-1wvmdl0 .download-sources.svelte-1wvmdl0.svelte-1wvmdl0 {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+.download-page.svelte-1wvmdl0
+	.download-sources.svelte-1wvmdl0
+	> p.svelte-1wvmdl0 {
+	text-align: center;
+}

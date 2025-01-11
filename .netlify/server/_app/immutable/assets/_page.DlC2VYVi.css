@@ -1,0 +1,9 @@
+.root.svelte-11ugucy {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: stretch;
+	padding: 2rem;
+	max-width: 900px;
+	margin-inline: auto;
+}

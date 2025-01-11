@@ -1,0 +1,881 @@
+{
+	".svelte-kit/generated/server/internal.js": {
+		"file": "internal.js",
+		"name": "internal",
+		"src": ".svelte-kit/generated/server/internal.js",
+		"isEntry": true,
+		"imports": ["_internal.js"]
+	},
+	"_Button.js": {
+		"file": "chunks/Button.js",
+		"name": "Button",
+		"imports": ["_ssr.js", "_names.js", "_internal2.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"_Footer.svelte_svelte_type_style_lang.js": {
+		"file": "_app/immutable/assets/Footer.Ctp9PIpC.css",
+		"src": "_Footer.svelte_svelte_type_style_lang.js"
+	},
+	"_HeaderChip.js": {
+		"file": "chunks/HeaderChip.js",
+		"name": "HeaderChip",
+		"imports": ["_ssr.js", "_i18n.js"]
+	},
+	"_IconButton.js": {
+		"file": "chunks/IconButton.js",
+		"name": "IconButton",
+		"imports": ["_ssr.js", "_names.js", "_internal2.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"_InfoBar.js": {
+		"file": "chunks/InfoBar.js",
+		"name": "InfoBar",
+		"imports": ["_ssr.js", "_internal2.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"_Metadata.js": {
+		"file": "chunks/Metadata.js",
+		"name": "Metadata",
+		"imports": ["_ssr.js", "_i18n.js", "_runtime.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"_NavigationView.svelte_svelte_type_style_lang.js": {
+		"file": "_app/immutable/assets/NavigationView.C4CKQE62.css",
+		"src": "_NavigationView.svelte_svelte_type_style_lang.js"
+	},
+	"_PageSection.js": {
+		"file": "chunks/PageSection.js",
+		"name": "PageSection",
+		"imports": ["_ssr.js", "_i18n.js"]
+	},
+	"_TextBlock.js": {
+		"file": "chunks/TextBlock.js",
+		"name": "TextBlock",
+		"imports": ["_ssr.js", "_names.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"_TreeView.js": {
+		"file": "chunks/TreeView.js",
+		"name": "TreeView",
+		"imports": ["_ssr.js", "_i18n.js", "_internal2.js", "_TextBlock.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"_docsTree.js": {
+		"file": "chunks/docsTree.js",
+		"name": "docsTree",
+		"imports": [
+			"src/routes/docs/+page.md",
+			"src/routes/docs/contributing/building-from-source/+page.md",
+			"src/routes/docs/contributing/code-style/+page.md",
+			"src/routes/docs/contributing/translating/+page.md",
+			"src/routes/docs/contributing/updates/+page.md",
+			"src/routes/docs/customize-settings/actions/+page.md",
+			"src/routes/docs/customize-settings/advanced/+page.md",
+			"src/routes/docs/customize-settings/appearance/+page.md",
+			"src/routes/docs/customize-settings/files-and-folders/+page.md",
+			"src/routes/docs/customize-settings/layout/+page.md",
+			"src/routes/docs/features/cloud-drives/+page.md",
+			"src/routes/docs/features/folder-config/+page.md",
+			"src/routes/docs/features/ftp/+page.md",
+			"src/routes/docs/features/git/+page.md",
+			"src/routes/docs/features/integrations/+page.md",
+			"src/routes/docs/features/layout-picker/+page.md",
+			"src/routes/docs/features/tabs/+page.md",
+			"src/routes/docs/features/tags/+page.md",
+			"src/routes/docs/install/+page.md",
+			"_index.js"
+		]
+	},
+	"_exports.js": {
+		"file": "chunks/exports.js",
+		"name": "exports"
+	},
+	"_i18n.js": {
+		"file": "chunks/i18n.js",
+		"name": "i18n",
+		"imports": ["_ssr.js", "_exports.js"],
+		"css": ["_app/immutable/assets/i18n.C83pvtns.css"]
+	},
+	"_index.js": {
+		"file": "chunks/index.js",
+		"name": "index"
+	},
+	"_index2.js": {
+		"file": "chunks/index2.js",
+		"name": "index",
+		"imports": ["_ssr.js"]
+	},
+	"_index3.js": {
+		"file": "chunks/index3.js",
+		"name": "index",
+		"imports": ["_runtime.js"]
+	},
+	"_internal.js": {
+		"file": "chunks/internal.js",
+		"name": "internal",
+		"imports": ["_ssr.js"],
+		"dynamicImports": ["src/hooks.server.ts"]
+	},
+	"_internal2.js": {
+		"file": "chunks/internal2.js",
+		"name": "internal",
+		"imports": ["_ssr.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"_links.js": {
+		"file": "chunks/links.js",
+		"name": "links"
+	},
+	"_names.js": {
+		"file": "chunks/names.js",
+		"name": "names"
+	},
+	"_runtime.js": {
+		"file": "chunks/runtime.js",
+		"name": "runtime",
+		"imports": ["_index2.js"]
+	},
+	"_ssr.js": {
+		"file": "chunks/ssr.js",
+		"name": "ssr"
+	},
+	"_utils.js": {
+		"file": "chunks/utils.js",
+		"name": "utils"
+	},
+	"node_modules/.pnpm/@sveltejs+kit@2.8.3_@sveltejs+vite-plugin-svelte@3.1.2_svelte@4.2.19_vite@5.4.9_@types+node@2_xlm43cgi37bh7qp5bly4h2h2wy/node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+		"file": "index.js",
+		"name": "index",
+		"src": "node_modules/.pnpm/@sveltejs+kit@2.8.3_@sveltejs+vite-plugin-svelte@3.1.2_svelte@4.2.19_vite@5.4.9_@types+node@2_xlm43cgi37bh7qp5bly4h2h2wy/node_modules/@sveltejs/kit/src/runtime/server/index.js",
+		"isEntry": true,
+		"imports": ["_internal.js", "_index.js", "_exports.js", "_index2.js"]
+	},
+	"src/hooks.server.ts": {
+		"file": "chunks/hooks.server.js",
+		"name": "hooks.server",
+		"src": "src/hooks.server.ts",
+		"isDynamicEntry": true,
+		"imports": ["_index3.js", "_runtime.js", "_index2.js"]
+	},
+	"src/routes/+error.svelte": {
+		"file": "entries/pages/_error.svelte.js",
+		"name": "entries/pages/_error.svelte",
+		"src": "src/routes/+error.svelte",
+		"isEntry": true,
+		"imports": ["_ssr.js", "_i18n.js", "_runtime.js", "_Metadata.js"],
+		"css": [
+			"_app/immutable/assets/_error.BcpkqMhu.css",
+			"_app/immutable/assets/NavigationView.C4CKQE62.css"
+		]
+	},
+	"src/routes/+layout.svelte": {
+		"file": "entries/pages/_layout.svelte.js",
+		"name": "entries/pages/_layout.svelte",
+		"src": "src/routes/+layout.svelte",
+		"isEntry": true,
+		"imports": [
+			"_ssr.js",
+			"_i18n.js",
+			"_runtime.js",
+			"_index.js",
+			"_links.js",
+			"_TreeView.js",
+			"_utils.js",
+			"_PageSection.js",
+			"_Button.js",
+			"_IconButton.js"
+		],
+		"css": [
+			"_app/immutable/assets/_layout.kI3WPxGP.css",
+			"_app/immutable/assets/NavigationView.C4CKQE62.css",
+			"_app/immutable/assets/Footer.Ctp9PIpC.css"
+		]
+	},
+	"src/routes/+layout.ts": {
+		"file": "entries/pages/_layout.ts.js",
+		"name": "entries/pages/_layout.ts",
+		"src": "src/routes/+layout.ts",
+		"isEntry": true,
+		"imports": ["_docsTree.js", "_runtime.js", "_index3.js"]
+	},
+	"src/routes/+page.svelte": {
+		"file": "entries/pages/_page.svelte.js",
+		"name": "entries/pages/_page.svelte",
+		"src": "src/routes/+page.svelte",
+		"isEntry": true,
+		"imports": [
+			"_ssr.js",
+			"_PageSection.js",
+			"_i18n.js",
+			"_Button.js",
+			"_HeaderChip.js",
+			"_runtime.js",
+			"_utils.js",
+			"_TextBlock.js",
+			"_internal2.js",
+			"_index.js",
+			"_links.js",
+			"_Metadata.js"
+		],
+		"css": [
+			"_app/immutable/assets/NavigationView.C4CKQE62.css",
+			"_app/immutable/assets/Footer.Ctp9PIpC.css"
+		]
+	},
+	"src/routes/+page.ts": {
+		"file": "entries/pages/_page.ts.js",
+		"name": "entries/pages/_page.ts",
+		"src": "src/routes/+page.ts",
+		"isEntry": true,
+		"imports": ["_links.js"]
+	},
+	"src/routes/blog/+page.server.ts": {
+		"file": "entries/pages/blog/_page.server.ts.js",
+		"name": "entries/pages/blog/_page.server.ts",
+		"src": "src/routes/blog/+page.server.ts",
+		"isEntry": true,
+		"imports": [
+			"src/routes/blog/posts/announcing-files-v2-4-30/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-4-40/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5-10/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5-20/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5/+page.md",
+			"src/routes/blog/posts/announcing-files-v2/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-0-33/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-1/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-3/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-4/+page.md",
+			"src/routes/blog/posts/introducing-v2-4-preview/+page.md",
+			"src/routes/blog/posts/listary-integration/+page.md",
+			"src/routes/blog/posts/now-on-scoop/+page.md",
+			"src/routes/blog/posts/now-on-winget/+page.md",
+			"src/routes/blog/posts/preview-on-store/+page.md",
+			"src/routes/blog/posts/ten-things/+page.md",
+			"src/routes/blog/posts/v3-1/+page.md",
+			"src/routes/blog/posts/v3-2-2/+page.md",
+			"src/routes/blog/posts/v3-2/+page.md",
+			"src/routes/blog/posts/v3-3/+page.md",
+			"src/routes/blog/posts/v3-4-1/+page.md",
+			"src/routes/blog/posts/v3-4/+page.md",
+			"src/routes/blog/posts/v3-5/+page.md",
+			"src/routes/blog/posts/v3-6/+page.md",
+			"src/routes/blog/posts/v3-7-11/+page.md",
+			"src/routes/blog/posts/v3-7-6/+page.md",
+			"src/routes/blog/posts/v3-7-7/+page.md",
+			"src/routes/blog/posts/v3-7/+page.md",
+			"src/routes/blog/posts/v3-8-1/+page.md",
+			"src/routes/blog/posts/v3-8-5/+page.md",
+			"src/routes/blog/posts/v3-8/+page.md",
+			"src/routes/blog/posts/v3/+page.md"
+		]
+	},
+	"src/routes/blog/+page.svelte": {
+		"file": "entries/pages/blog/_page.svelte.js",
+		"name": "entries/pages/blog/_page.svelte",
+		"src": "src/routes/blog/+page.svelte",
+		"isEntry": true,
+		"imports": [
+			"_ssr.js",
+			"_PageSection.js",
+			"_i18n.js",
+			"_Button.js",
+			"_HeaderChip.js",
+			"_runtime.js",
+			"_utils.js",
+			"_Metadata.js"
+		],
+		"css": [
+			"_app/immutable/assets/_page.BWAI5eln.css",
+			"_app/immutable/assets/NavigationView.C4CKQE62.css"
+		]
+	},
+	"src/routes/blog/feed.rss/+server.ts": {
+		"file": "entries/endpoints/blog/feed.rss/_server.ts.js",
+		"name": "entries/endpoints/blog/feed.rss/_server.ts",
+		"src": "src/routes/blog/feed.rss/+server.ts",
+		"isEntry": true,
+		"imports": [
+			"src/routes/blog/posts/announcing-files-v2-4-30/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-4-40/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5-10/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5-20/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5/+page.md",
+			"src/routes/blog/posts/announcing-files-v2/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-0-33/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-1/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-3/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-4/+page.md",
+			"src/routes/blog/posts/introducing-v2-4-preview/+page.md",
+			"src/routes/blog/posts/listary-integration/+page.md",
+			"src/routes/blog/posts/now-on-scoop/+page.md",
+			"src/routes/blog/posts/now-on-winget/+page.md",
+			"src/routes/blog/posts/preview-on-store/+page.md",
+			"src/routes/blog/posts/ten-things/+page.md",
+			"src/routes/blog/posts/v3-1/+page.md",
+			"src/routes/blog/posts/v3-2-2/+page.md",
+			"src/routes/blog/posts/v3-2/+page.md",
+			"src/routes/blog/posts/v3-3/+page.md",
+			"src/routes/blog/posts/v3-4-1/+page.md",
+			"src/routes/blog/posts/v3-4/+page.md",
+			"src/routes/blog/posts/v3-5/+page.md",
+			"src/routes/blog/posts/v3-6/+page.md",
+			"src/routes/blog/posts/v3-7-11/+page.md",
+			"src/routes/blog/posts/v3-7-6/+page.md",
+			"src/routes/blog/posts/v3-7-7/+page.md",
+			"src/routes/blog/posts/v3-7/+page.md",
+			"src/routes/blog/posts/v3-8-1/+page.md",
+			"src/routes/blog/posts/v3-8-5/+page.md",
+			"src/routes/blog/posts/v3-8/+page.md",
+			"src/routes/blog/posts/v3/+page.md"
+		]
+	},
+	"src/routes/blog/posts/+layout.svelte": {
+		"file": "entries/pages/blog/posts/_layout.svelte.js",
+		"name": "entries/pages/blog/posts/_layout.svelte",
+		"src": "src/routes/blog/posts/+layout.svelte",
+		"isEntry": true,
+		"imports": [
+			"_ssr.js",
+			"_i18n.js",
+			"_IconButton.js",
+			"_internal2.js",
+			"_TextBlock.js",
+			"_runtime.js",
+			"_Metadata.js",
+			"_utils.js"
+		],
+		"css": [
+			"_app/immutable/assets/_layout.DXTUx9qf.css",
+			"_app/immutable/assets/NavigationView.C4CKQE62.css"
+		]
+	},
+	"src/routes/blog/posts/+layout.ts": {
+		"file": "entries/pages/blog/posts/_layout.ts.js",
+		"name": "entries/pages/blog/posts/_layout.ts",
+		"src": "src/routes/blog/posts/+layout.ts",
+		"isEntry": true,
+		"imports": ["_index.js"],
+		"dynamicImports": [
+			"src/routes/blog/posts/announcing-files-v2-4-30/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-4-40/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5-10/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5-20/+page.md",
+			"src/routes/blog/posts/announcing-files-v2-5/+page.md",
+			"src/routes/blog/posts/announcing-files-v2/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-0-33/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-1/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-3/+page.md",
+			"src/routes/blog/posts/introducing-files-v2-4/+page.md",
+			"src/routes/blog/posts/introducing-v2-4-preview/+page.md",
+			"src/routes/blog/posts/listary-integration/+page.md",
+			"src/routes/blog/posts/now-on-scoop/+page.md",
+			"src/routes/blog/posts/now-on-winget/+page.md",
+			"src/routes/blog/posts/preview-on-store/+page.md",
+			"src/routes/blog/posts/ten-things/+page.md",
+			"src/routes/blog/posts/v3-1/+page.md",
+			"src/routes/blog/posts/v3-2-2/+page.md",
+			"src/routes/blog/posts/v3-2/+page.md",
+			"src/routes/blog/posts/v3-3/+page.md",
+			"src/routes/blog/posts/v3-4-1/+page.md",
+			"src/routes/blog/posts/v3-4/+page.md",
+			"src/routes/blog/posts/v3-5/+page.md",
+			"src/routes/blog/posts/v3-6/+page.md",
+			"src/routes/blog/posts/v3-7-11/+page.md",
+			"src/routes/blog/posts/v3-7-6/+page.md",
+			"src/routes/blog/posts/v3-7-7/+page.md",
+			"src/routes/blog/posts/v3-7/+page.md",
+			"src/routes/blog/posts/v3-8-1/+page.md",
+			"src/routes/blog/posts/v3-8-5/+page.md",
+			"src/routes/blog/posts/v3-8/+page.md",
+			"src/routes/blog/posts/v3/+page.md"
+		]
+	},
+	"src/routes/blog/posts/announcing-files-v2-4-30/+page.md": {
+		"file": "entries/pages/blog/posts/announcing-files-v2-4-30/_page.md.js",
+		"name": "entries/pages/blog/posts/announcing-files-v2-4-30/_page.md",
+		"src": "src/routes/blog/posts/announcing-files-v2-4-30/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/announcing-files-v2-4-40/+page.md": {
+		"file": "entries/pages/blog/posts/announcing-files-v2-4-40/_page.md.js",
+		"name": "entries/pages/blog/posts/announcing-files-v2-4-40/_page.md",
+		"src": "src/routes/blog/posts/announcing-files-v2-4-40/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/announcing-files-v2-5-10/+page.md": {
+		"file": "entries/pages/blog/posts/announcing-files-v2-5-10/_page.md.js",
+		"name": "entries/pages/blog/posts/announcing-files-v2-5-10/_page.md",
+		"src": "src/routes/blog/posts/announcing-files-v2-5-10/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/announcing-files-v2-5-20/+page.md": {
+		"file": "entries/pages/blog/posts/announcing-files-v2-5-20/_page.md.js",
+		"name": "entries/pages/blog/posts/announcing-files-v2-5-20/_page.md",
+		"src": "src/routes/blog/posts/announcing-files-v2-5-20/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/announcing-files-v2-5/+page.md": {
+		"file": "entries/pages/blog/posts/announcing-files-v2-5/_page.md.js",
+		"name": "entries/pages/blog/posts/announcing-files-v2-5/_page.md",
+		"src": "src/routes/blog/posts/announcing-files-v2-5/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/announcing-files-v2/+page.md": {
+		"file": "entries/pages/blog/posts/announcing-files-v2/_page.md.js",
+		"name": "entries/pages/blog/posts/announcing-files-v2/_page.md",
+		"src": "src/routes/blog/posts/announcing-files-v2/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/introducing-files-v2-0-33/+page.md": {
+		"file": "entries/pages/blog/posts/introducing-files-v2-0-33/_page.md.js",
+		"name": "entries/pages/blog/posts/introducing-files-v2-0-33/_page.md",
+		"src": "src/routes/blog/posts/introducing-files-v2-0-33/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/introducing-files-v2-1/+page.md": {
+		"file": "entries/pages/blog/posts/introducing-files-v2-1/_page.md.js",
+		"name": "entries/pages/blog/posts/introducing-files-v2-1/_page.md",
+		"src": "src/routes/blog/posts/introducing-files-v2-1/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/introducing-files-v2-3/+page.md": {
+		"file": "entries/pages/blog/posts/introducing-files-v2-3/_page.md.js",
+		"name": "entries/pages/blog/posts/introducing-files-v2-3/_page.md",
+		"src": "src/routes/blog/posts/introducing-files-v2-3/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/introducing-files-v2-4/+page.md": {
+		"file": "entries/pages/blog/posts/introducing-files-v2-4/_page.md.js",
+		"name": "entries/pages/blog/posts/introducing-files-v2-4/_page.md",
+		"src": "src/routes/blog/posts/introducing-files-v2-4/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/introducing-v2-4-preview/+page.md": {
+		"file": "entries/pages/blog/posts/introducing-v2-4-preview/_page.md.js",
+		"name": "entries/pages/blog/posts/introducing-v2-4-preview/_page.md",
+		"src": "src/routes/blog/posts/introducing-v2-4-preview/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/listary-integration/+page.md": {
+		"file": "entries/pages/blog/posts/listary-integration/_page.md.js",
+		"name": "entries/pages/blog/posts/listary-integration/_page.md",
+		"src": "src/routes/blog/posts/listary-integration/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/now-on-scoop/+page.md": {
+		"file": "entries/pages/blog/posts/now-on-scoop/_page.md.js",
+		"name": "entries/pages/blog/posts/now-on-scoop/_page.md",
+		"src": "src/routes/blog/posts/now-on-scoop/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js", "_InfoBar.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"src/routes/blog/posts/now-on-winget/+page.md": {
+		"file": "entries/pages/blog/posts/now-on-winget/_page.md.js",
+		"name": "entries/pages/blog/posts/now-on-winget/_page.md",
+		"src": "src/routes/blog/posts/now-on-winget/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/preview-on-store/+page.md": {
+		"file": "entries/pages/blog/posts/preview-on-store/_page.md.js",
+		"name": "entries/pages/blog/posts/preview-on-store/_page.md",
+		"src": "src/routes/blog/posts/preview-on-store/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/ten-things/+page.md": {
+		"file": "entries/pages/blog/posts/ten-things/_page.md.js",
+		"name": "entries/pages/blog/posts/ten-things/_page.md",
+		"src": "src/routes/blog/posts/ten-things/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-1/+page.md": {
+		"file": "entries/pages/blog/posts/v3-1/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-1/_page.md",
+		"src": "src/routes/blog/posts/v3-1/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-2-2/+page.md": {
+		"file": "entries/pages/blog/posts/v3-2-2/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-2-2/_page.md",
+		"src": "src/routes/blog/posts/v3-2-2/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-2/+page.md": {
+		"file": "entries/pages/blog/posts/v3-2/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-2/_page.md",
+		"src": "src/routes/blog/posts/v3-2/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-3/+page.md": {
+		"file": "entries/pages/blog/posts/v3-3/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-3/_page.md",
+		"src": "src/routes/blog/posts/v3-3/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-4-1/+page.md": {
+		"file": "entries/pages/blog/posts/v3-4-1/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-4-1/_page.md",
+		"src": "src/routes/blog/posts/v3-4-1/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-4/+page.md": {
+		"file": "entries/pages/blog/posts/v3-4/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-4/_page.md",
+		"src": "src/routes/blog/posts/v3-4/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-5/+page.md": {
+		"file": "entries/pages/blog/posts/v3-5/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-5/_page.md",
+		"src": "src/routes/blog/posts/v3-5/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-6/+page.md": {
+		"file": "entries/pages/blog/posts/v3-6/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-6/_page.md",
+		"src": "src/routes/blog/posts/v3-6/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-7-11/+page.md": {
+		"file": "entries/pages/blog/posts/v3-7-11/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-7-11/_page.md",
+		"src": "src/routes/blog/posts/v3-7-11/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-7-6/+page.md": {
+		"file": "entries/pages/blog/posts/v3-7-6/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-7-6/_page.md",
+		"src": "src/routes/blog/posts/v3-7-6/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-7-7/+page.md": {
+		"file": "entries/pages/blog/posts/v3-7-7/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-7-7/_page.md",
+		"src": "src/routes/blog/posts/v3-7-7/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-7/+page.md": {
+		"file": "entries/pages/blog/posts/v3-7/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-7/_page.md",
+		"src": "src/routes/blog/posts/v3-7/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-8-1/+page.md": {
+		"file": "entries/pages/blog/posts/v3-8-1/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-8-1/_page.md",
+		"src": "src/routes/blog/posts/v3-8-1/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-8-5/+page.md": {
+		"file": "entries/pages/blog/posts/v3-8-5/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-8-5/_page.md",
+		"src": "src/routes/blog/posts/v3-8-5/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3-8/+page.md": {
+		"file": "entries/pages/blog/posts/v3-8/_page.md.js",
+		"name": "entries/pages/blog/posts/v3-8/_page.md",
+		"src": "src/routes/blog/posts/v3-8/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/blog/posts/v3/+page.md": {
+		"file": "entries/pages/blog/posts/v3/_page.md.js",
+		"name": "entries/pages/blog/posts/v3/_page.md",
+		"src": "src/routes/blog/posts/v3/+page.md",
+		"isEntry": true,
+		"isDynamicEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/+layout.server.ts": {
+		"file": "entries/pages/docs/_layout.server.ts.js",
+		"name": "entries/pages/docs/_layout.server.ts",
+		"src": "src/routes/docs/+layout.server.ts",
+		"isEntry": true,
+		"imports": ["_docsTree.js"]
+	},
+	"src/routes/docs/+layout.svelte": {
+		"file": "entries/pages/docs/_layout.svelte.js",
+		"name": "entries/pages/docs/_layout.svelte",
+		"src": "src/routes/docs/+layout.svelte",
+		"isEntry": true,
+		"imports": [
+			"_ssr.js",
+			"_i18n.js",
+			"_runtime.js",
+			"_links.js",
+			"_TreeView.js",
+			"_Button.js",
+			"_internal2.js",
+			"_Metadata.js",
+			"_utils.js"
+		],
+		"css": [
+			"_app/immutable/assets/_layout.CizGb9ct.css",
+			"_app/immutable/assets/NavigationView.C4CKQE62.css"
+		]
+	},
+	"src/routes/docs/+page.md": {
+		"file": "entries/pages/docs/_page.md.js",
+		"name": "entries/pages/docs/_page.md",
+		"src": "src/routes/docs/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/configuring/[...rest]/+page.server.ts": {
+		"file": "entries/pages/docs/configuring/_...rest_/_page.server.ts.js",
+		"name": "entries/pages/docs/configuring/_...rest_/_page.server.ts",
+		"src": "src/routes/docs/configuring/[...rest]/+page.server.ts",
+		"isEntry": true,
+		"imports": ["_index.js"]
+	},
+	"src/routes/docs/contributing/building-from-source/+page.md": {
+		"file": "entries/pages/docs/contributing/building-from-source/_page.md.js",
+		"name": "entries/pages/docs/contributing/building-from-source/_page.md",
+		"src": "src/routes/docs/contributing/building-from-source/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/contributing/code-style/+page.md": {
+		"file": "entries/pages/docs/contributing/code-style/_page.md.js",
+		"name": "entries/pages/docs/contributing/code-style/_page.md",
+		"src": "src/routes/docs/contributing/code-style/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/contributing/translating/+page.md": {
+		"file": "entries/pages/docs/contributing/translating/_page.md.js",
+		"name": "entries/pages/docs/contributing/translating/_page.md",
+		"src": "src/routes/docs/contributing/translating/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/contributing/updates/+page.md": {
+		"file": "entries/pages/docs/contributing/updates/_page.md.js",
+		"name": "entries/pages/docs/contributing/updates/_page.md",
+		"src": "src/routes/docs/contributing/updates/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/customize-settings/[...rest]/+page.server.ts": {
+		"file": "entries/pages/docs/customize-settings/_...rest_/_page.server.ts.js",
+		"name": "entries/pages/docs/customize-settings/_...rest_/_page.server.ts",
+		"src": "src/routes/docs/customize-settings/[...rest]/+page.server.ts",
+		"isEntry": true,
+		"imports": ["_index.js"]
+	},
+	"src/routes/docs/customize-settings/actions/+page.md": {
+		"file": "entries/pages/docs/customize-settings/actions/_page.md.js",
+		"name": "entries/pages/docs/customize-settings/actions/_page.md",
+		"src": "src/routes/docs/customize-settings/actions/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js", "_InfoBar.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"src/routes/docs/customize-settings/advanced/+page.md": {
+		"file": "entries/pages/docs/customize-settings/advanced/_page.md.js",
+		"name": "entries/pages/docs/customize-settings/advanced/_page.md",
+		"src": "src/routes/docs/customize-settings/advanced/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js", "_InfoBar.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"src/routes/docs/customize-settings/appearance/+page.md": {
+		"file": "entries/pages/docs/customize-settings/appearance/_page.md.js",
+		"name": "entries/pages/docs/customize-settings/appearance/_page.md",
+		"src": "src/routes/docs/customize-settings/appearance/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js", "_InfoBar.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"src/routes/docs/customize-settings/files-and-folders/+page.md": {
+		"file": "entries/pages/docs/customize-settings/files-and-folders/_page.md.js",
+		"name": "entries/pages/docs/customize-settings/files-and-folders/_page.md",
+		"src": "src/routes/docs/customize-settings/files-and-folders/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/customize-settings/layout/+page.md": {
+		"file": "entries/pages/docs/customize-settings/layout/_page.md.js",
+		"name": "entries/pages/docs/customize-settings/layout/_page.md",
+		"src": "src/routes/docs/customize-settings/layout/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/features/cloud-drives/+page.md": {
+		"file": "entries/pages/docs/features/cloud-drives/_page.md.js",
+		"name": "entries/pages/docs/features/cloud-drives/_page.md",
+		"src": "src/routes/docs/features/cloud-drives/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js", "_InfoBar.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"src/routes/docs/features/folder-config/+page.md": {
+		"file": "entries/pages/docs/features/folder-config/_page.md.js",
+		"name": "entries/pages/docs/features/folder-config/_page.md",
+		"src": "src/routes/docs/features/folder-config/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/features/ftp/+page.md": {
+		"file": "entries/pages/docs/features/ftp/_page.md.js",
+		"name": "entries/pages/docs/features/ftp/_page.md",
+		"src": "src/routes/docs/features/ftp/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/features/git/+page.md": {
+		"file": "entries/pages/docs/features/git/_page.md.js",
+		"name": "entries/pages/docs/features/git/_page.md",
+		"src": "src/routes/docs/features/git/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/features/integrations/+page.md": {
+		"file": "entries/pages/docs/features/integrations/_page.md.js",
+		"name": "entries/pages/docs/features/integrations/_page.md",
+		"src": "src/routes/docs/features/integrations/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js", "_InfoBar.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"src/routes/docs/features/layout-picker/+page.md": {
+		"file": "entries/pages/docs/features/layout-picker/_page.md.js",
+		"name": "entries/pages/docs/features/layout-picker/_page.md",
+		"src": "src/routes/docs/features/layout-picker/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/features/tabs/+page.md": {
+		"file": "entries/pages/docs/features/tabs/_page.md.js",
+		"name": "entries/pages/docs/features/tabs/_page.md",
+		"src": "src/routes/docs/features/tabs/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/features/tags/+page.md": {
+		"file": "entries/pages/docs/features/tags/_page.md.js",
+		"name": "entries/pages/docs/features/tags/_page.md",
+		"src": "src/routes/docs/features/tags/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"]
+	},
+	"src/routes/docs/install/+page.md": {
+		"file": "entries/pages/docs/install/_page.md.js",
+		"name": "entries/pages/docs/install/_page.md",
+		"src": "src/routes/docs/install/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js", "_Button.js", "_InfoBar.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	},
+	"src/routes/download/+page.svelte": {
+		"file": "entries/pages/download/_page.svelte.js",
+		"name": "entries/pages/download/_page.svelte",
+		"src": "src/routes/download/+page.svelte",
+		"isEntry": true,
+		"imports": [
+			"_ssr.js",
+			"_i18n.js",
+			"_Button.js",
+			"_InfoBar.js",
+			"_TextBlock.js",
+			"_runtime.js",
+			"_Metadata.js",
+			"_utils.js"
+		],
+		"css": [
+			"_app/immutable/assets/_page.DVloGONy.css",
+			"_app/immutable/assets/NavigationView.C4CKQE62.css"
+		]
+	},
+	"src/routes/download/preview/+page.ts": {
+		"file": "entries/pages/download/preview/_page.ts.js",
+		"name": "entries/pages/download/preview/_page.ts",
+		"src": "src/routes/download/preview/+page.ts",
+		"isEntry": true,
+		"imports": ["_index.js"]
+	},
+	"src/routes/download/stable/+page.ts": {
+		"file": "entries/pages/download/stable/_page.ts.js",
+		"name": "entries/pages/download/stable/_page.ts",
+		"src": "src/routes/download/stable/+page.ts",
+		"isEntry": true,
+		"imports": ["_index.js"]
+	},
+	"src/routes/privacy/+page.md": {
+		"file": "entries/pages/privacy/_page.md.js",
+		"name": "entries/pages/privacy/_page.md",
+		"src": "src/routes/privacy/+page.md",
+		"isEntry": true,
+		"imports": ["_ssr.js"],
+		"css": ["_app/immutable/assets/_page.DlC2VYVi.css"]
+	},
+	"src/routes/themes/+page.svelte": {
+		"file": "entries/pages/themes/_page.svelte.js",
+		"name": "entries/pages/themes/_page.svelte",
+		"src": "src/routes/themes/+page.svelte",
+		"isEntry": true,
+		"imports": ["_ssr.js", "_i18n.js", "_runtime.js", "_Metadata.js"],
+		"css": ["_app/immutable/assets/NavigationView.C4CKQE62.css"]
+	}
+}

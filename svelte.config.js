@@ -1,5 +1,5 @@
 import remarkA11yEmoji from "@fec/remark-a11y-emoji";
-import adapter from "@sveltejs/adapter-cloudflare";
+import adapter from "@sveltejs/adapter-netlify";
 import { mdsvex } from "mdsvex";
 import rehypeColorPreview from "rehype-color-preview";
 import rehypeSlug from "rehype-slug";
