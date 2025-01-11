@@ -1,0 +1,147 @@
+{
+	"metadata": {
+		"name": "{FilesName}",
+		"home": "{FilesName} • 主页",
+		"docs_home": "{FilesName} • 文档",
+		"docs_page": "{FilesName} • 文档 - {title}",
+		"blog_home": "{FilesName} • 博客",
+		"blog_page": "{FilesName} • {title}",
+		"description": "做最好的自己"
+	},
+	"home": {
+		"community": {
+			"chip": "社区",
+			"title": "由你来进行的设计与开发。",
+			"description": "{FilesName} 是自由开放源码软件，由数百个贡献者集体维护和设计。",
+			"discord": "加入讨论",
+			"docs": "成为贡献者",
+			"contributions": "{amount, plural, =0 {无贡献} other {# 贡献}}"
+		},
+		"design": {
+			"chip": "我们",
+			"title": "永远年轻 永远热泪盈眶",
+			"description": "一群初高中生摄影佬为热爱而生的小组，我们希望能做出令自己和观众都满意的出色作品",
+			"download": "下载",
+			"learn_more": "了解更多"
+		},
+		"features": {
+			"chip": "关于",
+			"title": "我们已经做到了什么",
+			"description": "优秀的后期调色？电影感的镜头？还是令人惊叹的摄影技巧？我们都有所进展",
+			"unknown": "未知",
+			"cloud": {
+				"title": "网络运营",
+				"description": "我们有流媒体频道，并有自己的私有云"
+			},
+			"preview": {
+				"title": "抢先预览",
+				"description": "我们掌握先一手的学校活动咨询"
+			},
+			"popup-preview": {
+				"title": "观看体验",
+				"description": "我们拥有拍摄 4K 60 帧甚至 8K 60 帧的能力，给您震撼的视觉体验"
+			},
+			"tags": {
+				"title": "素材管理",
+				"description": "我们使用提示明确的标签用于管理庞大的素材库"
+			},
+			"tabs": {
+				"title": "拷卡秩序",
+				"description": "我们有完善的工作流用于素材管理和备份"
+			},
+			"columns": {
+				"title": "列表视图",
+				"description": "使用列式布局快速浏览文件系统的不同层级。"
+			},
+			"archives": {
+				"title": "分发素材",
+				"description": "我们有相对完善的分发素材规范以确保项目的正常运行"
+			},
+			"git": {
+				"title": "组织管理",
+				"description": "我们是一群爱好者，平等的交流摄影经验"
+			},
+			"dual-pane": {
+				"title": "团队协作",
+				"description": "在一起，就可以。我们相信团体的力量"
+			},
+			"hashes": {
+				"title": "放松一下",
+				"description": "我们不定期的会有小福利哦"
+			},
+			"command-palette": {
+				"title": "核心组织",
+				"description": "我们有一群拥有相应项目经验的同学"
+			},
+			"remap-key-bindings": {
+				"title": "配套设施",
+				"description": "我们有相应的场室和电脑用于工作"
+			}
+		},
+		"themes": {
+			"chip": "主题",
+			"title": "个性化",
+			"description": "随心所欲。 {FilesName} 的用户界面可完全自定义，包括颜色和材质。你可以尝试 {FilesName} 内置的自定义主题，也可以查阅文档创建自定义主题。",
+			"grey_blue": "深灰 • 浅蓝",
+			"grey_green": "灰蓝 • 荧绿",
+			"purple": "紫色",
+			"yellow_white": "黄色 • 白色",
+			"white_teal": "冷白色 • 深茶色",
+			"sky_blue": "天蓝",
+			"select_theme": "选择主题#{index}"
+		}
+	},
+	"blog": {
+		"coming_soon": "更多功能即将发布!",
+		"read_more": "了解更多",
+		"share": {
+			"default": "本地共享",
+			"url": "复制链接",
+			"tweet": "X",
+			"facebook": "Facebook",
+			"rss": "RSS 订阅源"
+		}
+	},
+	"docs": {
+		"autocomplete_empty": "未找到任何结果",
+		"edit_page": "编辑此页面",
+		"search_docs": "搜索文档"
+	},
+	"footer": {
+		"home": "主页",
+		"docs": "文档",
+		"news": "消息",
+		"download": "下载",
+		"contribute": "为 {FilesName} 贡献",
+		"feedback": "发送反馈",
+		"style_guide": "风格规范",
+		"translations": "翻译",
+		"web_team": "团队"
+	},
+	"navbar": {
+		"home": "主页",
+		"docs": "文档",
+		"news": "消息",
+		"download": "下载",
+		"themes": "主题",
+		"discord": "Discord",
+		"github": "Github"
+	},
+	"download": {
+		"title": "下载 {FilesName}",
+		"donation_description": "{FilesName} 是一个由社区主导的项目，为了持续成长和改进，我们需要大家的支持。请考虑从 Microsoft Store 购买 {FilesName}，或者如果您选择使用经典安装程序，请务必在 GitHub 上给予支持。",
+		"donation_button": "捐赠",
+		"microsoft_store": {
+			"title": "下载文件",
+			"description": "通过Microsoft Store购买 {FilesName} 有助于支持开发人员，使我们能够继续更新应用程序的新功能和改进。"
+		},
+		"preview": {
+			"title": "下载预览版本",
+			"description": "预览版可以与稳定版同时安装，并提供对新功能和改进的早期访问。"
+		},
+		"self_signed": {
+			"link_text": "经典安装程序",
+			"description": "无法通过 Microsoft Store 下载？试试我们 "
+		}
+	}
+}
