@@ -6,7 +6,7 @@
 		"docs_page": "{FilesName} • 文档 - {title}",
 		"blog_home": "{FilesName} • 博客",
 		"blog_page": "{FilesName} • {title}",
-		"description": "构建最好的Windows文件管理器。"
+		"description": "做最好的自己"
 	},
 	"home": {
 		"community": {
@@ -18,14 +18,14 @@
 			"contributions": "{amount, plural, =0 {无贡献} other {# 贡献}}"
 		},
 		"design": {
-			"chip": "设计",
-			"title": "当实用遇上美学。",
-			"description": "探索绚丽的 Windows 设计。在提高工作效率的同时，管理所有文件，更能使用标签在多个文件夹间切换。还有更多功能等待您发现。",
+			"chip": "我们",
+			"title": "永远年轻 永远热泪盈眶",
+			"description": "一群初高中生摄影佬为热爱而生的小组，我们希望能做出令自己和观众都满意的出色作品",
 			"download": "下载",
 			"learn_more": "了解更多"
 		},
 		"features": {
-			"chip": "特性",
+			"chip": "关于",
 			"title": "它已经做到了这一点。",
 			"description": "云文件的集成？标签和多种布局？丰富的文件预览？ {FilesName} 拥有您期望从现代文件管理器中获得的所有强大功能。",
 			"unknown": "未知",
